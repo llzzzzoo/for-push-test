@@ -5,6 +5,7 @@ public class GaoShuSOS {
             System.out.println("高数及格");
             System.out.println("高数及格");
             System.out.println("大物及格");
+            System.out.println("大英及格");
         }
     }
 
