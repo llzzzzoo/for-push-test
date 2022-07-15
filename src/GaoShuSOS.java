@@ -4,6 +4,7 @@ public class GaoShuSOS {
         for (int i = 0; i < 114514; i++) {
             System.out.println("高数及格");
             System.out.println("高数及格");
+            System.out.println("大物及格");
         }
     }
 
